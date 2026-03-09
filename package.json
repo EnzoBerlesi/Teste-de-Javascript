@@ -6,7 +6,7 @@
   "main": "next.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
+    "start": "next start",
     "dev": "nodemon server.js",
     "build": "next build"
   },
