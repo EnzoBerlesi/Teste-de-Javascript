@@ -276,19 +276,6 @@ A API utiliza **JWT** com suporte a cookies httpOnly. O fluxo é:
 
 ---
 
-## ☁️ Deploy
-
-A aplicação está configurada para deploy na **Vercel** com banco **Neon**.
-
-1. Faça push pro GitHub
-2. Importe o repositório na [Vercel](https://vercel.com/)
-3. Configure as variáveis de ambiente no painel da Vercel:
-   - `DATABASE_URL`
-   - `JWT_SECRET`
-4. Deploy automático a cada push na branch `main`
-
----
-
 ## 📄 Licença
 
 MIT
